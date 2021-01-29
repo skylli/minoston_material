@@ -1,11 +1,12 @@
 {
   "version": "v0.01",
+  "imageUrlHead": "https://raw.githubusercontent.com/skylli/minoston_material/main/",
   "background": [
     {
-      "title": "Wi-Fi Plus Smart Plug Outdoor On/Off Outlet Switch",
+      "title": "classic",
       "lastUpdate": "2021-01-29 12:0:0",
-      "imageUrl":"https://github.com/skylli/minoston_material/blob/main/material/WF96S-ui.jpg",
-      "addressUrl":"https://minoston.com/product/wi-fi-plus-smart-plug-outdoor-on-off-outlet-switch-mp22w/"
+      "imageUrl": "bg_sky01.webp",
+      "addressUrl": null
     }
   ]
 }
